@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .INDUSTRIES one-word domains still available to buy.
 
-This dataset contains 4,439 .INDUSTRIES one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,435 .INDUSTRIES one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.INDUSTRIES one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=industries-oneword-domains&utm_content=description.top) (4,438) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.INDUSTRIES one word d
 
 | Domain                | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.industries        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.industries        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.industries      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.industries  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.industries      | available | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.INDUSTRIES one word d
 | abatic.industries     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.industries    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.industries   | available | 50       | 1%     | 8      |           |         |         |
-| abc.industries        | available | 102      | 41%    | 3      |           |         |         |
+| abc.industries        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.industries  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.industries  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.industries | available | 56       | 1%     | 10     |           |         |         |

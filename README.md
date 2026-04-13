@@ -79,10 +79,10 @@ print(df.head())
 | agile.industries    | available | $17.49    | $65.99        | 92             | 41     | 5      | name.com             |
 | sex.industries      | resell    | —         | —             | 98             | 45     | 3      | Porkbun LLC          |
 | abc.industries      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap            |
-| order.industries    | available | $17.49    | $65.99        | 78             | 41     | 5      | name.com             |
+| quick.industries    | available | $17.49    | $65.99        | 72             | 41     | 5      | name.com             |
 | server.industries   | resell    | —         | —             | 64             | 45     | 6      | Mesh Digital Limited |
 | life.industries     | premium   | $260      | $260          | 84             | 50     | 4      | namecheap            |
-| quick.industries    | available | $17.49    | $65.99        | 72             | 41     | 5      | name.com             |
+| order.industries    | available | $17.49    | $65.99        | 78             | 40     | 5      | name.com             |
 | food.industries     | resell    | —         | —             | 94             | 44     | 4      | Dynadot Inc          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.

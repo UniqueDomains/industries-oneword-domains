@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .industries one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,074 domains · **Median ask:** $26.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/industries`  
 **Best for:** founders, investors, studios
 
@@ -72,17 +72,17 @@ print(df.head())
 | systems.industries    | premium   | $250      | —             | 46             | 27     | 7      | name.com  |
 | videos.industries     | available | $17.49    | —             | 52             | 30     | 6      | name.com  |
 | tips.industries       | premium   | $82.50    | —             | 80             | 26     | 4      | name.com  |
-| quotes.industries     | available | $17.49    | —             | 58             | 29     | 6      | name.com  |
+| gods.industries       | available | $17.49    | —             | 72             | 29     | 4      | name.com  |
 | loans.industries      | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo  |
-| blocks.industries     | available | $17.49    | —             | 53             | 29     | 6      | name.com  |
+| quotes.industries     | available | $17.49    | —             | 58             | 29     | 6      | name.com  |
 | boats.industries      | premium   | $123.75   | —             | 52             | 24     | 5      | name.com  |
-| dogs.industries       | available | $17.49    | —             | 76             | 28     | 4      | name.com  |
+| blocks.industries     | available | $17.49    | —             | 53             | 29     | 6      | name.com  |
 | motorsport.industries | premium   | $123.75   | —             | 74             | 23     | 10     | name.com  |
-| gems.industries       | available | $17.49    | —             | 70             | 28     | 4      | name.com  |
+| dogs.industries       | available | $17.49    | —             | 76             | 28     | 4      | name.com  |
 | apartments.industries | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo  |
-| brands.industries     | available | $17.49    | —             | 62             | 28     | 6      | name.com  |
+| gems.industries       | available | $17.49    | —             | 70             | 28     | 4      | name.com  |
 | webs.industries       | premium   | $118.80   | $118.80       | 56             | 21     | 4      | namesilo  |
-| gods.industries       | available | $17.49    | —             | 72             | 27     | 4      | name.com  |
+| brands.industries     | available | $17.49    | —             | 62             | 28     | 6      | name.com  |
 | pictures.industries   | premium   | $123.75   | —             | 82             | 17     | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INDUSTRIES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INDUSTRIES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .industries one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,074 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,074 domains · **Median ask:** $26.31 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,074 domains · **Median ask:** $26.24 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/industries`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/industries`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .INDUSTRIES one-word d
 
 ### Files
 
-- `industries.csv` — public CSV extract (1,000 rows)
-- `industries.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `industries.csv`, public CSV extract (1,000 rows)
+- `industries.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| matcha.industries     | available | $17.49    | —             | 86             | 39     | 6      | name.com  |
-| cars.industries       | premium   | $250      | —             | 66             | 47     | 4      | name.com  |
-| prompts.industries    | available | $17.49    | —             | 54             | 39     | 7      | name.com  |
-| homes.industries      | premium   | $123.75   | —             | 86             | 34     | 5      | name.com  |
-| spectra.industries    | available | $17.49    | —             | 62             | 34     | 7      | name.com  |
-| systems.industries    | premium   | $250      | —             | 46             | 27     | 7      | name.com  |
-| videos.industries     | available | $17.49    | —             | 52             | 30     | 6      | name.com  |
-| tips.industries       | premium   | $82.50    | —             | 80             | 26     | 4      | name.com  |
-| gods.industries       | available | $17.49    | —             | 72             | 29     | 4      | name.com  |
-| loans.industries      | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo  |
-| quotes.industries     | available | $17.49    | —             | 58             | 29     | 6      | name.com  |
-| boats.industries      | premium   | $123.75   | —             | 52             | 24     | 5      | name.com  |
-| blocks.industries     | available | $17.49    | —             | 53             | 29     | 6      | name.com  |
-| motorsport.industries | premium   | $123.75   | —             | 74             | 23     | 10     | name.com  |
-| dogs.industries       | available | $17.49    | —             | 76             | 28     | 4      | name.com  |
-| apartments.industries | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo  |
-| gems.industries       | available | $17.49    | —             | 70             | 28     | 4      | name.com  |
-| webs.industries       | premium   | $118.80   | $118.80       | 56             | 21     | 4      | namesilo  |
-| brands.industries     | available | $17.49    | —             | 62             | 28     | 6      | name.com  |
-| pictures.industries   | premium   | $123.75   | —             | 82             | 17     | 8      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bad.industries  | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo        |
+| due.industries  | available | $17.49    | —             | high           | low    | 3      | name.com        |
+| moon.industries | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc. |
+| him.industries  | available | $17.49    | —             | high           | low    | 3      | name.com        |
+| bus.industries  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
+| ill.industries  | available | $17.49    | —             | medium         | low    | 3      | name.com        |
+| cow.industries  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| ive.industries  | available | $17.49    | —             | medium         | low    | 3      | name.com        |
+| eye.industries  | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo        |
+| ivy.industries  | available | $17.49    | —             | high           | low    | 3      | name.com        |
+| fat.industries  | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo        |
+| let.industries  | available | $17.49    | —             | high           | low    | 3      | name.com        |
+| gay.industries  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo        |
+| mid.industries  | available | $17.49    | —             | high           | low    | 3      | name.com        |
+| inc.industries  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo        |
+| pre.industries  | available | $17.49    | —             | medium         | low    | 3      | name.com        |
+| ink.industries  | premium   | $242      | $242          | high           | medium | 3      | namesilo        |
+| rag.industries  | available | $17.49    | $65.99        | medium         | low    | 3      | name.com        |
+| pay.industries  | premium   | $500      | —             | high           | medium | 3      | name.com        |
+| sum.industries  | available | $17.49    | $65.99        | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on .industries domain names. The set includes generic terms like salary.industries and direct.industries, broader brandable words like amuse.industries and attainable.industries, plus place and personal-name terms such as alabama.industries and Liam.industries. That mix matters. For founders, the best picks are usually the names that read cleanly, match a specific business angle, and still feel memorable outside a narrow niche. For investors, the main test is whether the word has clear commercial relevance within the .industries extension at the current ask. The median ask is 26.31, so the key decision is fit and risk, not just entry price.
+The .industries extension pairs naturally with sector-focused branding — from solar energy to healthcare to consumer goods. This set of 12,074 one-word domains includes short, memorable picks like homes.industries, half.industries, and superhero.industries alongside compound and thematic names such as solarenergy.industries and comicrelief.industries. With a median ask of $26, most of these domains are priced for quick, low-risk acquisition rather than premium six-figure deals.
 
-- Prioritize clear words that fit the .industries ending
-- Check median ask: 26.31 before comparing individual names
-- Be careful with personal names and famous brand terms
-- Geo and category words can be clear but narrower in use
+- 12,074 one-word .industries domains available to evaluate
+- Median ask of $26 keeps most names low-risk to acquire
+- Mix of short generic words and sector-specific compound names
+- Updated daily to reflect current pricing across the set
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INDUSTRIES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INDUSTRIES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

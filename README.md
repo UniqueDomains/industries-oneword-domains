@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .industries one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,472 domains · **Median ask:** $22.85 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/industries`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,9 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bad.industries  | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo        |
 | aft.industries  | available | $17.49    | $65.99        | low            | low    | 3      | name.com        |
 | moon.industries | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc. |
-| bad.industries  | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo        |
 | due.industries  | available | $17.49    | —             | high           | low    | 3      | name.com        |
 | bus.industries  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
 | him.industries  | available | $17.49    | —             | high           | low    | 3      | name.com        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INDUSTRIES One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INDUSTRIES One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

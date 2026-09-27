@@ -1,10 +1,10 @@
-# Available .INDUSTRIES One-Word Domains (21,996)
+# Available .INDUSTRIES One-Word Domains (22,390)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C996%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C390%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .industries one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,996 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,390 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,996 domains · **Median ask:** $37.61 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 22,390 domains · **Median ask:** $37.99 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/industries`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| aec.industries  | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
-| moon.industries | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc. |
-| biz.industries  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| atp.industries  | available | $17.49    | —             | high           | low    | 3      | name.com        |
-| gal.industries  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| but.industries  | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
-| her.industries  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| cfo.industries  | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
-| its.industries  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
-| dji.industries  | available | $17.49    | —             | high           | low    | 3      | name.com        |
-| joy.industries  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
-| gao.industries  | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
-| llc.industries  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| lay.industries  | available | $47.98    | $58.98        | high           | low    | 3      | namecheap       |
-| say.industries  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| lii.industries  | available | $17.49    | $65.99        | high           | low    | 3      | name.com        |
-| sub.industries  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
-| llb.industries  | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
-| wow.industries  | premium   | $242      | $242          | high           | medium | 3      | namesilo        |
-| mri.industries  | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| release.industries  | available | $47.98    | $58.98        | high           | low    | 7      | namecheap       |
+| present.industries  | available | $45.99    | $45.99        | high           | low    | 7      | namesilo        |
+| nuts.industries     | available | $45.99    | $45.99        | high           | low    | 4      | namesilo        |
+| obvious.industries  | available | $45.99    | $45.99        | high           | low    | 7      | namesilo        |
+| bearing.industries  | available | $47.98    | $58.98        | high           | low    | 7      | namecheap       |
+| pregnant.industries | available | $47.98    | $58.98        | high           | low    | 8      | namecheap       |
+| possess.industries  | available | $45.99    | $45.99        | high           | low    | 7      | namesilo        |
+| former.industries   | available | $47.98    | $58.98        | high           | low    | 6      | namecheap       |
+| aec.industries      | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
+| moon.industries     | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc. |
+| biz.industries      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| atp.industries      | available | $17.49    | —             | high           | low    | 3      | name.com        |
+| gal.industries      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| but.industries      | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
+| her.industries      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| cfo.industries      | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
+| its.industries      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
+| dji.industries      | available | $17.49    | —             | high           | low    | 3      | name.com        |
+| joy.industries      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
+| gao.industries      | available | $45.99    | $45.99        | high           | low    | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,996 live domains                        |
+| 1,000-row public sample | 22,390 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INDUSTRIES One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INDUSTRIES One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
